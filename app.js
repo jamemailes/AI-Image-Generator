@@ -1,6 +1,6 @@
 
 //GO TO YOUR OPEN.AI ACCOUNT, THEN COPY AND PASTE YOUR API KEY BELOW TO MAKE THIS WORK.
-//const API_KEY = "";
+const API_KEY = "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";
 
 const submitIcon = document.querySelector("#submit-icon");
 const inputElement = document.querySelector("input");
